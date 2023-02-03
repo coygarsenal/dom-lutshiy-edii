@@ -1,0 +1,50 @@
+.hamburger {
+}
+.hamburger__title {
+  padding: 132px 0;
+  text-align: center;
+}
+
+.hamburger__wrapper {
+  display: flex;
+  align-items: stretch;
+  column-gap: 30px;
+}
+
+.hamburger__main-img {
+}
+
+.hamburger__foot-img {
+}
+
+.hamburger__foot-images {
+  margin-bottom: 22px;
+}
+
+.hamburger__min {
+  margin-top: 45px;
+
+}
+.hamburger__mini {
+  padding-bottom: 134px;
+  font-family: 'Tinos';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 30px;
+color: #000000;
+}
+.hamburger__mini-text {
+  font-family: 'Tinos';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 30px;
+color: #000000;
+}
+
+.hamburger__mini-border {
+  border: 1px dashed #000000;
+  transform: rotateY(0.14deg);
+  width: 204px;
+}
